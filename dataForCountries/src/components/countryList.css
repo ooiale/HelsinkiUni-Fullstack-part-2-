@@ -1,0 +1,13 @@
+.show {
+    margin-left: 5px;
+    padding: 1px 1px 1px 1px;
+}
+
+li {
+    padding-top: 3px;
+    padding-left: 3px;
+}
+
+.flag {
+    height: 100px;
+}
